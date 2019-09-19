@@ -1,6 +1,6 @@
 # The Library challenge
 
-## Dependencies
+## Built with  
 **Programming language:** Ruby  
 **Testing framework:** [RSpec](https://rspec.info/) 
 
@@ -10,6 +10,10 @@
 
 ## The code  
 This program represents a library prototype application. As a visitor of the Library you may view all relevant information about the books such as title, author, availability and current due date. You may check out a book and receive its due date.  
+
+## Dependencies  
+* RSpec  
+* IRB  
  
 ## Setup  
 To test this application you need to fork it to your own GitHub account and clone it to your local workspace. Once you have cloned the repository, you will be able to:  
